@@ -14,6 +14,7 @@ spec:
     spec:
       containers:
       - name: devops-container
-        image: Karatasdilara/devops:v1
+        image: karatasdilara/devops:v1 
         ports:
         - containerPort: 5000
+        
